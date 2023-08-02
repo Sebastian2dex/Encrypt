@@ -1,6 +1,6 @@
 #!/usr/bin/env python3                            
 import os
-os.system('sudo apt-get install cryptography Fernet')
+#install cryptography and fernet 
 from cryptography.fernet import Fernet
 
 files = []
